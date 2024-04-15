@@ -139,3 +139,5 @@ allure-results/
 allure_report/
 wd/
 data/
+.DS_Store
+.idea/
